@@ -1,0 +1,2 @@
+com.example.processors.petproject.infrastructure.controller.HibernateProductRepositoryControllerService
+com.example.processors.petproject.domain.ports.ProductRepository
